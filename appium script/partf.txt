@@ -1,0 +1,11 @@
+Amazon homepage load time(Part A): 9.03 seconds
+Amazon homepage Effective(excluding Sleep time) load time(Part A): 3.03 seconds
+*********************************************************************************
+Amazon homepage load time(Part B): 11.57 seconds
+Amazon homepage Effective(excluding Sleep time) load time(Part B): 5.57 seconds
+*********************************************************************************
+Amazon homepage load time(Part C): 9.45 seconds
+Amazon homepage Effective(excluding Sleep time) load time(Part C): 3.45 seconds
+*********************************************************************************
+Amazon homepage load time(Part D): 9.53 seconds
+Amazon homepage Effective(excluding Sleep time) load time(Part D): 3.53 seconds
