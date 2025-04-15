@@ -1,0 +1,41 @@
+Activity1: homepage load time(Part A): 8.75 seconds
+Activity1: Effective(excluding Sleep time) homepage load time(Part A): 2.75 seconds
+Activity2: Search Time(Part A): 11.80 seconds
+Activity2: Effective(excluding Sleep time) Search time(Part A): 2.80 seconds
+Total Time Taken: 20.55 seconds
+Effective(excluding Sleep time) Total Time Taken: 5.55 seconds
+*********************************************************************************
+Activity1: homepage load time(Part B): 9.74 seconds
+Activity1: Effective(excluding Sleep time) homepage load time(Part B): 3.74 seconds
+Activity2: Search Time(Part B): 12.35 seconds
+Activity2: Effective(excluding Sleep time) Search time(Part B): 3.35 seconds
+Activity3: filter time(Part B): 15.12 seconds
+Activity3: Effective(excluding Sleep time) filter time(Part B): 5.12 seconds
+Activity4: product retrieval time(Part B): 3.53 seconds
+Activity4: Effective(excluding Sleep time) product retrieval time(Part B): 1.53 seconds
+Total Time Taken: 40.73 seconds
+Effective(excluding Sleep time) Total Time Taken: 13.73 seconds
+*********************************************************************************
+Activity1: homepage load time(Part C): 8.99 seconds
+Activity1: Effective(excluding Sleep time) homepage load time(Part C): 2.99 seconds
+Activity2: Search Time(Part C): 10.13 seconds
+Activity2: Effective(excluding Sleep time) Search time(Part C): 1.13 seconds
+Activity3: filter time(Part C): 15.50 seconds
+Activity3: Effective(excluding Sleep time) filter time(Part C): 5.50 seconds
+Activity4: product retrieval time(Part C): 3.53 seconds
+Activity4: Effective(excluding Sleep time) product retrieval time(Part C): 1.53 seconds
+Total Time Taken: 38.14 seconds
+Effective(excluding Sleep time) Total Time Taken: 11.14 seconds
+*********************************************************************************
+Activity1: homepage load time(Part D): 8.94 seconds
+Activity1: Effective(excluding Sleep time) homepage load time(Part D): 2.94 seconds
+Activity2: Search Time(Part D): 10.16 seconds
+Activity2: Effective(excluding Sleep time) Search time(Part D): 1.16 seconds
+Activity3: filter time(Part D): 16.23 seconds
+Activity3: Effective(excluding Sleep time) filter time(Part D): 6.23 seconds
+Activity4: product retrieval time(Part D): 3.81 seconds
+Activity4: Effective(excluding Sleep time) product retrieval time(Part D): 1.81 seconds
+Activity5: product retrieval time(Part D): 8.31 seconds
+Activity5: Effective(excluding Sleep time) product retrieval time(Part D): 1.31 seconds
+Total Time Taken: 47.45 seconds
+Effective(excluding Sleep time) Total Time Taken: 13.45 seconds
