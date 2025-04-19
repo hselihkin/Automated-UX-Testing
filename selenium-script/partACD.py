@@ -28,6 +28,7 @@ print("search results loaded in:", time.time() - start, "seconds")
 start = time.time()
 sortDropdown = wait.until(EC.element_to_be_clickable((By.ID, "a-autoid-0-announce")))
 sortDropdown.click()
+sortDropdown.click()
 
 sortbyRating = wait.until(EC.element_to_be_clickable((By.ID, "s-result-sort-select_3")))
 ActionChains(driver).move_to_element(sortbyRating).click().perform()
